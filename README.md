@@ -8,3 +8,4 @@ Like so many others, I put together a weather station to capture outside weather
 I was inspired by the hackaday project below and give credit to the author
 https://hackaday.io/project/165061-solar-powered-wifi-weather-station-v20
 
+This project uses Thingsboard, SPIFFS, JSON and ezTime.  Sensors are a BME280 and TSL2591.  My project is powered by a Lipo battery charged with a solarcell through a TP4056 charging unit.  The microcontroller is a D1 mini pro.
