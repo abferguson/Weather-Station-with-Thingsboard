@@ -534,7 +534,6 @@ void BME280Read() {
 
   /// To get correct local altitude/height (QNE) the reference Pressure
   ///    should be taken from meteorologic messages (QNH or QFF)
-  // Lake Elmo altitude is 930 ft / 283.46 m
   float altitude = EnvironmentCalculations::Altitude(pressure, envAltUnit, referencePressure, tempDrybulb, envTempUnit);
 
   tempDewpoint = EnvironmentCalculations::DewPoint(tempDrybulb, relHumidity, envTempUnit);
