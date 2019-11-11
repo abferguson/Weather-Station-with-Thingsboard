@@ -29,5 +29,5 @@ The red LED is mounted on the top of my unit beneath the solar cell.  The CAD fi
   - The light sensor is mounted off the top of the solar cell support.  A small piece of PMMA or Acrylic is cut to cover the top      rectangular hole.  The entire light sensor assembly is sealed with silicone.
   - The Lipo battery is mummy wrapped with a self-sealing silicone tape to keep all moisture out. https://www.homedepot.com/p/Nashua-Tape-1-in-x-3-33-yd-Stretch-and-Seal-Self-Fusing-Silicone-Tape-in-Clear-1210364/203534911
   - I used PETG filament for the station pieces.  All pieces were spray painted white.  We'll see if this prevents excessive weathering.
-  
+  - The bottom_mount part is designed to connect the weather station to a flat corner brace. If you choose to use a brace, you may need to either drill holes in the brace or redesign the part to match hole spacings.
   
